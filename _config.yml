@@ -1,9 +1,9 @@
 nav:
   blog: /
-  works: https://scottcazan.com/works/
-  Writing: /posts/
-  about: https://scottcazan.com/about/
-  scottcazan.com: https://scottcazan.com/
+  works: https://scottcazan.com/works
+  events: https://scottcazan.com/events
+  about: https://scottcazan.com/about
+  scottcazan.com: https://scottcazan.com
 
 projects_url: http://github.com/scazan
 
