@@ -36,7 +36,7 @@ customize:
     highlight: pojoaque
 
 # RSS
-rss: true
+rss: false
 
 # Plugins
 plugins:
@@ -48,5 +48,5 @@ miscellaneous:
     open_graph: # see http://ogp.me
         fb_app_id:
         fb_admins:
-        twitter_id: scazan
+        twitter_id:
         google_plus:
