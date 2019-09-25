@@ -1,16 +1,17 @@
 nav:
-  Home: /
-  About: /about/
+  blog: /
+  works: https://scottcazan.com/works/
   Writing: /posts/
-  Projects: http://github.com/sergodeeva
+  about: https://scottcazan.com/about/
+  scottcazan.com: https://scottcazan.com/
 
-projects_url: http://github.com/sergodeeva
+projects_url: http://github.com/scazan
 
 customize:
     gravatar:
         email: 
     logo:
-        enabled: true
+        enabled: false
         width: 50
         height: 50
         url: /images/logo.png
@@ -27,25 +28,25 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/sergodeeva
-        facebook: /
-        linkedin: https://www.linkedin.com/in/natalyakosenko/
+        github: http://github.com/scazan
+        instagram: http://instagram.com/scazan
+        twitter: http://twitter.com/scazan
     show_all_posts: false
     post_count: 10
     highlight: pojoaque
 
 # RSS
-rss: false
+rss: true
 
 # Plugins
 plugins:
     disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-37473492-6 # enter the tracking ID for your Google Analytics
+    google_analytics: UA-23356250-1 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
     open_graph: # see http://ogp.me
         fb_app_id:
         fb_admins:
-        twitter_id:
+        twitter_id: scazan
         google_plus:
